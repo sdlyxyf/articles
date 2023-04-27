@@ -18,17 +18,17 @@ Python 爬虫技术的基本内容包括网页基础分析、requests 请求、X
 
 ### 以下为 Python3 网络爬虫学习教程内容：
 
-爬虫基础入门
-什么是爬虫？
-HTTP 基本原理
-Web 网页基础
-Session 和 Cookie
-urllib 爬虫初体验
-方便好用的 requests
-强大灵活的正则表达式
-基础爬虫案例爬取实战
-页面解析和数据存储
-网页解析利器 XPath 初体验
+#### 爬虫基础入门
+1. 什么是爬虫？
+2. HTTP 基本原理
+3. Web 网页基础
+4. Session 和 Cookie
+5. urllib 爬虫初体验
+6. 方便好用的 requests
+7. 强大灵活的正则表达式
+8. 基础爬虫案例爬取实战
+9页面解析和数据存储
+10. 网页解析利器 XPath 初体验
 新兴网页解析利器 parsel
 简易的 TXT 纯文本文件存储
 方便灵活的 JSON 文本文件存储
@@ -66,5 +66,5 @@ App 爬虫和安卓逆向
 Scrapy 框架和分布式爬虫
 爬虫的部署、维护、监控
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjIxNzI2MF19
+eyJoaXN0b3J5IjpbOTY2MzUwNDEwXX0=
 -->

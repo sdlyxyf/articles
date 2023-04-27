@@ -27,27 +27,27 @@ Python 爬虫技术的基本内容包括网页基础分析、requests 请求、X
 6. 方便好用的 requests
 7. 强大灵活的正则表达式
 8. 基础爬虫案例爬取实战
-9页面解析和数据存储
-10. 网页解析利器 XPath 初体验
-新兴网页解析利器 parsel
-简易的 TXT 纯文本文件存储
-方便灵活的 JSON 文本文件存储
-高效实用的 MongoDB 文档存储
-关系型数据库 MySQL 存储
-当爬虫遇见 RabbitMQ 消息队列
-便于高效检索的 Elasticsearch 存储
-Ajax 分析和动态渲染页面爬取
-什么是 Ajax？
-Ajax 分析方法
-Ajax 案例爬取实战
-经典动态渲染工具 Selenium 的使用
-新兴动态渲染工具 Playwright 的使用
-异步爬虫和模拟登录
-协程的基本原理
-aiohttp 的基本使用
-模拟登录的基本原理
-Session + Cookie 模拟登录爬取实战
-验证码的处理
+#### 页面解析和数据存储
+1.  网页解析利器 XPath 初体验
+2. 新兴网页解析利器 parsel
+3. 简易的 TXT 纯文本文件存储
+4. 方便灵活的 JSON 文本文件存储
+5. 高效实用的 MongoDB 文档存储
+6. 关系型数据库 MySQL 存储
+7. 当爬虫遇见 RabbitMQ 消息队列
+8. 便于高效检索的 Elasticsearch 存储
+#### Ajax 分析和动态渲染页面爬取
+1. 什么是 Ajax？
+2. Ajax 分析方法
+3. Ajax 案例爬取实战
+4. 经典动态渲染工具 Selenium 的使用
+5. 新兴动态渲染工具 Playwright 的使用
+#### 异步爬虫和模拟登录
+1. 协程的基本原理
+2. aiohttp 的基本使用
+3. 模拟登录的基本原理
+4. Session + Cookie 模拟登录爬取实战
+#### 验证码的处理
 OCR 识别验证码
 OpenCV 图像匹配识别滑动验证码缺口
 深度学习识别滑动验证码缺口
@@ -66,5 +66,5 @@ App 爬虫和安卓逆向
 Scrapy 框架和分布式爬虫
 爬虫的部署、维护、监控
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY2MzUwNDEwXX0=
+eyJoaXN0b3J5IjpbOTcwMDMxNTQ3XX0=
 -->

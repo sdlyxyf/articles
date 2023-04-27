@@ -48,23 +48,23 @@ Python 爬虫技术的基本内容包括网页基础分析、requests 请求、X
 3. 模拟登录的基本原理
 4. Session + Cookie 模拟登录爬取实战
 #### 验证码的处理
-OCR 识别验证码
-OpenCV 图像匹配识别滑动验证码缺口
-深度学习识别滑动验证码缺口
-代理的使用
-代理的基本原理
-代理的基本使用
-高效代理池的维护
-ADSL 拨号代理的使用
-JavaScript 混淆、逆向技术
-JavaScript 网站加密和混淆技术简介
-JavaScript 逆向调试技巧
-JavaScript Hook 的用法
-Python 模拟执行 JavaScript
-App 爬虫和安卓逆向
-页面智能解析
-Scrapy 框架和分布式爬虫
-爬虫的部署、维护、监控
+1. OCR 识别验证码
+2. OpenCV 图像匹配识别滑动验证码缺口
+3. 深度学习识别滑动验证码缺口
+#### 代理的使用
+1. 代理的基本原理
+2. 代理的基本使用
+3. 高效代理池的维护
+4. ADSL 拨号代理的使用
+#### JavaScript 混淆、逆向技术
+1. JavaScript 网站加密和混淆技术简介
+2. JavaScript 逆向调试技巧
+3. JavaScript Hook 的用法
+4. Python 模拟执行 JavaScript
+#### App 爬虫和安卓逆向
+#### 页面智能解析
+#### Scrapy 框架和分布式爬虫
+#### 爬虫的部署、维护、监控
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcwMDMxNTQ3XX0=
+eyJoaXN0b3J5IjpbMTAwNTIxNjM1N119
 -->

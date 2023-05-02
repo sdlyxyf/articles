@@ -7,19 +7,19 @@ django的api可以说是很多很全，这辈子都不可能全记住的。
 ### 准备
 首先，你可以用django-admin来生成你的项目。
 不过笔者更建议用一个脚手架来快速生成一个启动模板。
-pycharm
+经常用pycharm建立一个django项目
 
 ### 核心工作流
 Django的核心是MVC，更准确来说是MVT（Model-View-Template）
 
-首先创建app，并在settings中的INSTALLED_APPS添加其配置，在全局urls中通过include引入app的所有url
+1. 首先创建app，并在settings中的INSTALLED_APPS添加其配置，在全局urls中通过include引入app的所有url
 
-接下来才是最关键的3步：
+2. 接下来才是最关键的3步：
 1、在models.py中定义好数据模型并迁移它们
 2、在views.py中编写视图函数，并在urls.py中为其创建相应的映射
 3、在templates文件夹中编写要渲染的模板HTML
-数据模型的定义其实就是定义各种各样的字段，还有个Meta类可以定义一些元数据（比如字段的排序等），此外你也可以为模型封装一些method来简化视图的编写。
-视图函数的编写主要涉及以下方面：模型的CRUD、表单的处理、模板的上下文渲染（必须熟悉HTTP）
+3. 数据模型的定义其实就是定义各种各样的字段，还有个Meta类可以定义一些元数据（比如字段的排序等），此外你也可以为模型封装一些method来简化视图的编写。
+4. 视图函数的编写主要涉及以下方面：模型的CRUD、表单的处理、模板的上下文渲染（必须熟悉HTTP）
 视图函数分2种：函数和类（即FBV和CBV）。两者各有利弊，根据需求自行权衡。目前来说后者在django中比较流行。
 给视图添加额外功能：FBV用装饰器，CBV用Mixin。
 模板的编写主要涉及：上下文的渲染、if、for、with语句、过滤器、继承等
@@ -74,5 +74,5 @@ celery：分布式任务队列，用来任务调度
 flower：监控celery
 weasyprint：用HTML生成PDF文件
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNjAwNDM0MV19
+eyJoaXN0b3J5IjpbMTkxMjU2MzE1NV19
 -->

@@ -715,6 +715,8 @@ class set(object):
         """ Update a set with the union of itself and others. """
         pass
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MDA4MTcwNSwtMjAzOTk4NTUzNF19
+eyJoaXN0b3J5IjpbNzE3Nzk4NDIzLDE0NjAwODE3MDUsLTIwMz
+k5ODU1MzRdfQ==
 -->

@@ -1,12 +1,12 @@
 class list(object):
-    """
-    Built-in mutable sequence.    
-    If no argument is given, the constructor creates a new empty list.
-    The argument must be an iterable if specified.
-    """
+	    """
+	    Built-in mutable sequence.    
+	    If no argument is given, the constructor creates a new empty list.
+	    The argument must be an iterable if specified.
+	    """
 	    def  append(self, *args, **kwargs): # real signature unknown
-        """ Append object to the end of the list. """
-        pass
+		        """ Append object to the end of the list. """
+		        pass
 
     def clear(self, *args, **kwargs): # real signature unknown
         """ Remove all items from list. """
@@ -26,8 +26,7 @@ class list(object):
 
     def index(self, *args, **kwargs): # real signature unknown
         """
-        Return first index of value.
-        
+        Return first index of value.        
         Raises ValueError if the value is not present.
         """
         pass
@@ -64,7 +63,8 @@ class list(object):
         The reverse flag can be set to sort in descending order.
         """
         pass
+        
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MzM1Mjg5OF19
+eyJoaXN0b3J5IjpbNjgxMTM4MDAyXX0=
 -->

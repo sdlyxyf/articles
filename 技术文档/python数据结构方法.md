@@ -1,6 +1,6 @@
 class list(object):
 	    """
-	    Built-in mutable sequence.    
+	    Built-in mutable sequence.    mutable -> can be changed,sequ
 	    If no argument is given, the constructor creates a new empty list.
 	    The argument must be an iterable if specified.
 	    """
@@ -717,6 +717,6 @@ class set(object):
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE3Nzk4NDIzLDE0NjAwODE3MDUsLTIwMz
-k5ODU1MzRdfQ==
+eyJoaXN0b3J5IjpbLTExNDk3NTI4NDcsNzE3Nzk4NDIzLDE0Nj
+AwODE3MDUsLTIwMzk5ODU1MzRdfQ==
 -->

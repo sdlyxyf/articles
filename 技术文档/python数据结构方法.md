@@ -1,8 +1,8 @@
 class list(object):
 	    """
-	    Built-in mutable sequence.    mutable -> can be changed,sequ
+	    Built-in mutable sequence.         mutable -> can be changed
 	    If no argument is given, the constructor creates a new empty list.
-	    The argument must be an iterable if specified.
+	    The argument must be an iterable if specified.     specified-> 制定的
 	    """
 	    def  append(self, *args, **kwargs): # real signature unknown
 		        """ Append object to the end of the list. """
@@ -717,6 +717,6 @@ class set(object):
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDk3NTI4NDcsNzE3Nzk4NDIzLDE0Nj
-AwODE3MDUsLTIwMzk5ODU1MzRdfQ==
+eyJoaXN0b3J5IjpbMTY4OTg4NDE4Niw3MTc3OTg0MjMsMTQ2MD
+A4MTcwNSwtMjAzOTk4NTUzNF19
 -->
